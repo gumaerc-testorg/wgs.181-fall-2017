@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9b338d40-ef99-f926-b7b2-f0db1f4abb89
 title: Critical Response / Review Essay
 uid: c9bcb9f3-ab7d-b1c2-540f-48b4b505c152
