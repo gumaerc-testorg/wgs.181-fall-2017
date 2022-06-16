@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,7 +15,7 @@ This critical response paper will be a short assignment of 3–4 pages in which 
 
 The essay is due during Session 6 and is worth 20% of the final grade.
 
-For further detail, see the [Critical Response / Review Essay]({{< baseurl >}}/pages/assignments/critical-response-review-essay) section.
+For further detail, see the {{% resource_link c9bcb9f3-ab7d-b1c2-540f-48b4b505c152 "Critical Response / Review Essay" %}} section.
 
 Final Essay
 -----------
@@ -23,4 +24,4 @@ The final essay will consist of one of two options: either an essay response to 
 
 The essay is due during Session 13 and is worth 30% of the final grade.
 
-For further detail, see the [Final Essay]({{< baseurl >}}/pages/assignments/final-essay) section.
+For further detail, see the {{% resource_link 26735790-2fac-cd7e-db8a-b41a5af7b619 "Final Essay" %}} section.

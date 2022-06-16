@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -37,7 +38,7 @@ Highsmith, Patricia. _The Price of Salt (aka Carol)_. Dover Publications, 2015. 
 
 Hilderbrand, Lucas. _Paris Is Burning_. Arsenal Pulp Press, 2014. ISBN: 9781551525198. \[Preview with [Google Books](https://books.google.com/books?id=KK42DwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readingsandfilms) section.
+For additional readings, see the {{% resource_link 89338d49-3acd-3d8d-074e-d2f15e915bb5 "Readings" %}} section.
 
 Films
 -----
@@ -178,4 +179,4 @@ _Final Essay_
 
 The final paper will consist of one of two options: either an essay response to a set of prompt questions distributed in the last weeks of class, or an independent research paper exploring a particular cinematic text through the application of course concepts in your analysis. The final will demonstrate your proficiency in applying concepts relevant to queer representation we have been studying over the course of the term.
 
-For details on the critical response and final essays, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For details on the critical response and final essays, see the {{% resource_link 9b338d40-ef99-f926-b7b2-f0db1f4abb89 "Assignments" %}} section.

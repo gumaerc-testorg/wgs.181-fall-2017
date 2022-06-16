@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This sentence contains details for the critical response / review essay
+  assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the topic choices for the final essay.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
