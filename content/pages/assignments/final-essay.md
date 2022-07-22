@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the topic choices for the final essay.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9b338d40-ef99-f926-b7b2-f0db1f4abb89
 title: Final Essay
 uid: 26735790-2fac-cd7e-db8a-b41a5af7b619
