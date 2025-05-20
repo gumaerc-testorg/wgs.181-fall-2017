@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/9c4f7ff59745a1d720879e7f96960b60_WGS-181f17-th.jpg
+file: /courses/wgs-181-queer-cinema-and-visual-culture-fall-2017/9c4f7ff59745a1d720879e7f96960b60_WGS-181f17-th.jpg
 file_size: 5229
 file_type: image/jpeg
 image_metadata:
