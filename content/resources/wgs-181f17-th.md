@@ -7,8 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "The cast from a production of the Tony Award-winning musical\__Fun Home_,\
     \ based on Alison Bechdel's 2006 graphic memoir of the same name. (Image courtesy\
-    \ of {{% resource_link \"a27a04d0-70f5-4de8-9e7a-a69bec62a913\" \"Portland Center\
-    \ Stage\" %}} on flickr. License CC BY-NC.)"
+    \ of [Portland Center Stage](https://www.flickr.com/photos/portlandcenterstage/36805290801/in/photolist-Y5mJFk-b1oaP2-byqZZB-ZgrRDA-7nEvet-X2rchX-dBQvfp-bzVqr2-7AV8EP-5ZyY7s-8yZqD-nVaejQ-7qZF8x-4Lkirs-7A5Gho-Zf4rgw-5rMJbS-7isrp3-6TgdfS-czK57N-dEUxLd-5jrFbk-7y1sPz-bicC1g-5x4XjQ-byshYk-ccsjed-8rxioc-75yruQ-ZguNx9-b9jGm2-7iTYRE-2982Jau-Zf4riq-pdeHPL-oeyrPk-56CEWH-fcXYp-4wwZLH-mkzpqF-729yeD-bVwxvS-TGhdX9-gagtPt-73xCY8-7bzHxu-dCQeCE-7H6Dho-TKV1Rc-ephHqq)\
+    \ on flickr. License CC BY-NC.)"
   credit: Image courtesy of Portland Center Stage on flickr. License CC BY NC.
   image-alt: 'A man with a stern expression stands amongst three females: a preteen,
     a teenager, and an adult.  Each female wears jeans, sneakers, and a striped shirt.'
