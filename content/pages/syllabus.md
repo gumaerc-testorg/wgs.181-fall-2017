@@ -29,47 +29,47 @@ What does it mean to be a reader of a queer text, and what makes a text count as
 Required Text
 -------------
 
-Bechdel, Alison. _Fun Home: A Family Tragicomic_. Mariner Books, 2007. ISBN: 9780618871711. \[Preview with {{% resource_link "947c382f-a706-4c63-b2c6-720bab3a9c06" "Google Books" %}}\]
+Bechdel, Alison. _Fun Home: A Family Tragicomic_. Mariner Books, 2007. ISBN: 9780618871711. \[Preview with [Google Books](https://books.google.com/books?id=hO70pE8MckoC&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 Recommended Texts
 -----------------
 
-Highsmith, Patricia. _The Price of Salt (aka Carol)_. Dover Publications, 2015. ISBN: 9780486800295. \[Preview with {{% resource_link "14bf4fa3-0809-4c91-9440-2f094755c7ad" "Google Books" %}}\]
+Highsmith, Patricia. _The Price of Salt (aka Carol)_. Dover Publications, 2015. ISBN: 9780486800295. \[Preview with [Google Books](https://books.google.com/books?id=WFIwBgAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
-Hilderbrand, Lucas. _Paris Is Burning_. Arsenal Pulp Press, 2014. ISBN: 9781551525198. \[Preview with {{% resource_link "940924ef-3c51-4a5d-8218-2310e91fe6fd" "Google Books" %}}\]
+Hilderbrand, Lucas. _Paris Is Burning_. Arsenal Pulp Press, 2014. ISBN: 9781551525198. \[Preview with [Google Books](https://books.google.com/books?id=KK42DwAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
 
 For additional readings, see the {{% resource_link 89338d49-3acd-3d8d-074e-d2f15e915bb5 "Readings" %}} section.
 
 Films
 -----
 
-_{{% resource_link "7841c26a-b086-4efa-955d-54cc745a8459" "The Celluloid Closet" %}}_. Directed by Rob Epstein and Jeffrey Friedman. Color and Black and White, 104 min. 1996.
+_[The Celluloid Closet](https://www.imdb.com/title/tt0112651/?ref_=nv_sr_1)_. Directed by Rob Epstein and Jeffrey Friedman. Color and Black and White, 104 min. 1996.
 
-_{{% resource_link "85230f66-4544-4af7-8d28-0d903c42de98" "Before Stonewall" %}}_. Directed by Greta Schiller and Robert Rosenberg. Color and Black and White, 87 min. 1985.
+_[Before Stonewall](https://www.imdb.com/title/tt0088782/?ref_=nv_sr_1)_. Directed by Greta Schiller and Robert Rosenberg. Color and Black and White, 87 min. 1985.
 
-_{{% resource_link "48f8b714-690c-4749-b2c5-4134a7520975" "Screaming Queens: The Riot at Compton's Cafeteria" %}}_. Directed by Victor Silverman and Susan Stryker. Color, 57 min. 2005.
+_[Screaming Queens: The Riot at Compton's Cafeteria](https://www.imdb.com/title/tt0464189/?ref_=nv_sr_1)_. Directed by Victor Silverman and Susan Stryker. Color, 57 min. 2005.
 
-_{{% resource_link "7c5355c7-b44e-4ad8-b7ba-8626e8d27cd8" "I Am Not Your Negro" %}}_. Directed by Raoul Peck. Color and Black and White, 93 min. 2017.
+_[I Am Not Your Negro](https://www.imdb.com/title/tt5804038/?ref_=fn_al_tt_1)_. Directed by Raoul Peck. Color and Black and White, 93 min. 2017.
 
-_{{% resource_link "b0949d8e-6538-4875-8e70-65b7d1a2ab06" "Rope" %}}_. Directed by Alfred Hitchcock. Color, 80 min. 1948.
+_[Rope](https://www.imdb.com/title/tt0040746/?ref_=nv_sr_1)_. Directed by Alfred Hitchcock. Color, 80 min. 1948.
 
-_{{% resource_link "f90d7b68-1505-49e6-a782-caf9df57c98d" "The Children’s Hour" %}}_. Directed by William Wyler. Black and White, 108 min. 1961.
+_[The Children’s Hour](https://www.imdb.com/title/tt0054743/?ref_=nv_sr_1)_. Directed by William Wyler. Black and White, 108 min. 1961.
 
-{{% resource_link "9106608e-df78-4872-a15e-6b74f1fc9975" "_The Danish Girl_" %}}. Directed by Tom Hooper. Color, 119 min. 2016.
+[_The Danish Girl_](https://www.imdb.com/title/tt0810819/?ref_=nv_sr_1). Directed by Tom Hooper. Color, 119 min. 2016.
 
-_{{% resource_link "248cc1fe-66ea-47f6-b8bd-be35e4fffb03" "Carol" %}}_. Directed by Todd Haynes. Color, 118 min. 2016.
+_[Carol](https://www.imdb.com/title/tt2402927/?ref_=nv_sr_1)_. Directed by Todd Haynes. Color, 118 min. 2016.
 
-{{% resource_link "d1afba28-8102-4ec1-a95d-c8862916c56c" "_Philadelphia_" %}}. Directed by Jonathan Demme. Color, 125 min. 1994.
+[_Philadelphia_](https://www.imdb.com/title/tt0107818/?ref_=nv_sr_2). Directed by Jonathan Demme. Color, 125 min. 1994.
 
-_{{% resource_link "5dc3853e-4651-4c39-817a-7911a46b01b3" "Tongues Untied" %}}_. Directed by Marlon Riggs. Color, 55 min. 1989.
+_[Tongues Untied](https://www.imdb.com/title/tt0103099/?ref_=nv_sr_1)_. Directed by Marlon Riggs. Color, 55 min. 1989.
 
-_{{% resource_link "8598305c-f577-44b6-bd79-8cbea2fad52c" "The Watermelon Woman" %}}_. Directed by Cheryl Dunye. Color, 90 min. 1997.
+_[The Watermelon Woman](https://www.imdb.com/title/tt0118125/?ref_=nv_sr_3)_. Directed by Cheryl Dunye. Color, 90 min. 1997.
 
-_{{% resource_link "c672bc65-4f3c-4e9d-b6e4-e62e0437b356" "Paris Is Burning" %}}_. Directed by Jennie Livingston. Color, 71 min. 1991.
+_[Paris Is Burning](https://www.imdb.com/title/tt0100332/?ref_=nv_sr_1)_. Directed by Jennie Livingston. Color, 71 min. 1991.
 
-_{{% resource_link "2d1aed6b-52fe-4264-9251-d69025f58c9e" "Free CeCe!" %}}_ Directed by Jacqueline Gares. Color, 100 min. 2018.
+_[Free CeCe!](https://www.imdb.com/title/tt3678476/?ref_=nv_sr_1)_ Directed by Jacqueline Gares. Color, 100 min. 2018.
 
-_{{% resource_link "e130d165-0077-4139-aac4-a32aa389eebb" "Sense8" %}}_. Color, 60 min. episodes. 2015–2018.
+_[Sense8](https://www.imdb.com/title/tt2431438/?ref_=nv_sr_1)_. Color, 60 min. episodes. 2015–2018.
 
 Grading
 -------
